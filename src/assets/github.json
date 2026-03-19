@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.pinimg.com/736x/62/6f/99/626f99d934157147f02449d93bc51bd9.jpg",
+    "title": "Project Title",
+    "description": "Brief description of the project",
+    "tags": ["javascript", "react", "web"],
+    "repolink": "https://github.com/username/repo",
+    "denolink": "https://deno.land/x/module"
+  },
+  {
+    "id": 2,
+    "image": "https://i.pinimg.com/736x/84/35/55/843555d3ca2ee6898c80b593c13e792b.jpg",
+    "title": "Another Project",
+    "description": "Another project description",
+    "tags": ["typescript", "node", "api"],
+    "repolink": "https://github.com/username/repo2",
+    "denolink": "https://deno.land/x/module2"
+  },
+  {
+    "id": 3,
+    "image": "https://i.pinimg.com/736x/4a/95/aa/4a95aa4a820dd4c551ff75114139e353.jpg",
+    "title": "New Project",
+    "description": "Description of the new project",
+    "tags": ["python", "flask", "backend"],
+    "repolink": "https://github.com/username/repo3",
+    "denolink": "https://deno.land/x/module3"
+  },
+  {
+    "id": 4,
+    "image": "https://i.pinimg.com/1200x/4b/b3/8f/4bb38fac5361f637474d947a62e36572.jpg",
+    "title": "Another New Project",
+    "description": "Description of another new project",
+    "tags": ["java", "spring", "web"],
+    "repolink": "https://github.com/username/repo4",
+    "denolink": "https://deno.land/x/module4"
+  }
+]
