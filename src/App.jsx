@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./App.scss";
+import "./app.scss";
 import Dock from "./components/Dock.jsx";
 import Nav from "./components/nav.jsx";
 import Github from "./components/windows/Github.jsx";
